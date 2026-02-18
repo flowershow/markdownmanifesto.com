@@ -5,6 +5,10 @@
 - [ ] ➕2026-01-27 unofficial slogan can be "X ❤️ Markdown" with X being a community or a tool or whatever. they can stick this image on their site and it links back to the manifesto. e.g. "Obsidian ❤️ Markdown"
 
 
+## Markdown in X
+
+- [ ] ➕2026-02-18   WhatsApp markdown Support
+
 ## Mini-demos of markdown (under 30s) you could do
 
 - Markdown editing in ...
